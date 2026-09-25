@@ -1,15 +1,17 @@
-# Criação ou atualização do ficheiro de instruções locais:
-## 1) Para Claude code:   
+# 1) Criação ou atualização do ficheiro de instruções locais:
+## A) Para Claude code:   
 C:\Users\Ana\.claude\CLAUDE.md
 ou 
 C:\Utilizadores\Ana\.claude\CLAUDE.md
-## 2) Para Codex:
+## B) Para Codex:
 C:\Users\Ana\.codex\AGENTS.md
 ou 
 C:\Utilizadores\Ana\.codex\AGENTS.md
 
-## 3) Para Copilot CLI:
+## C) Para Copilot CLI:
 
-C:\Users\Ana\.codex\AGENTS.md
+C:\Users\Ana\.copilot\copilot-instructions.md
 ou 
-C:\Utilizadores\Ana\.codex\AGENTS.md
+C:\Utilizadores\Ana\.copilot\copilot-instructions.md
+
+# 2) Criação de mecanismo de ligação ao Confluence:
