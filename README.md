@@ -4,4 +4,6 @@ Este repositório contém os ficheiros necessários para direcionar agentes de I
 ## Contém os ficheiros:
 - README.md
 - Instruções.md
+- Claude.md
 - Agents.md
+- Instructions.md
