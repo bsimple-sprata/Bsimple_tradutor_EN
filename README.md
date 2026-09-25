@@ -4,8 +4,8 @@ Este repositório contém os ficheiros necessários para direcionar agentes de I
 ## Contém os ficheiros:
 - README.md
 - Instruções.md
-- claude.md
-- agents.md
+- CLAUDE.md
+- AGENTS.md
 - copilot-instructions.md
 
 ### Nota:
