@@ -1,9 +1,8 @@
 # Criação ou atualização do ficheiro de instruções locais:
 ## 1) Para Claude code:   
-C:\Users\Ana\.codex\AGENTS.md
+C:\Users\Ana\.claude\CLAUDE.md
 ou 
-C:\Utilizadores\Ana\.codex\AGENTS.md
-
+C:\Utilizadores\Ana\.claude\CLAUDE.md
 ## 2) Para Codex:
 C:\Users\Ana\.codex\AGENTS.md
 ou 
