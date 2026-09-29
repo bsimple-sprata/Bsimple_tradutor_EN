@@ -1,3 +1,0 @@
--
-- criar pasta de acesso ao devops e
-- atualziar README geral
