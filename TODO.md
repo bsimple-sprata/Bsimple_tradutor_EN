@@ -1,0 +1,3 @@
+- terminar pasta de acesso ao Confluence
+- criar pasta de acesso ao devops e
+- atualziar README geral
