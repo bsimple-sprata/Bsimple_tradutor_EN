@@ -9,15 +9,20 @@ Before producing a final translation, consult the complete approved terminology 
 - Confluence page ID: `772866077`
 - Use `Acesso Confluence/Get-ConfluencePage.ps1` or an equivalent authenticated method.
 - The official Confluence content is the authoritative source.
+- The Confluence page takes precedence over prior memory, any local glossary, and general UK English usage.
 
 ## Mandatory complete-dictionary validation
 
 The dictionary must be processed in full. Do not validate the translation using only a selection of keywords, a summary, or terms remembered from previous tasks.
 
-The complete validation must include:
+Validation covers all content, not only the main text or prominent terms. Review every heading, paragraph, list item, table cell, UI label, placeholder and code comment, while preserving non-linguistic content as required below.
 
-1. Retrieve the entire Confluence page.
-2. Preserve and inspect the complete table structure, including:
+## Operational validation workflow
+
+Complete these steps in order:
+
+1. Retrieve the entire Confluence page using an authenticated method.
+2. Preserve and inspect the complete dictionary and table structure, including:
    - source terms;
    - approved UK English translations;
    - expressions and multi-word phrases;
@@ -26,16 +31,13 @@ The complete validation must include:
    - exceptions;
    - prohibited or deprecated alternatives;
    - grammatical or usage instructions.
-3. Check every relevant dictionary entry against the content being translated.
-4. Apply approved translations consistently throughout the complete text.
-5. Give priority to longer expressions and context-specific entries before shorter individual terms.
-6. Do not replace a term when the dictionary specifies an exception or a different contextual translation.
-7. Identify and report:
-   - terms that were replaced;
-   - terms found without an approved dictionary entry;
-   - ambiguous terms requiring human confirmation;
-   - conflicts or duplicate instructions in the dictionary.
-8. Perform a second review of the complete translated text against the complete dictionary before presenting the final result.
+3. Compare every part of the content with every relevant dictionary entry.
+4. Resolve longer expressions and context-specific entries before shorter individual terms, respecting every exception and contextual translation in the dictionary.
+5. Mark any term without an approved dictionary entry as `pending review` and request human confirmation. Do not invent translations for terms not in the Confluence dictionary.
+6. Apply all approved translations consistently throughout the complete content.
+7. Perform a second review of the complete translated content against the complete dictionary.
+8. Generate the required validation report, including every terminology change and every unresolved issue.
+9. Mark the translation as validated only after all preceding steps are complete. A translation with any term still marked `pending review` must not be presented as fully validated.
 
 ## Confluence access failure
 
@@ -77,8 +79,10 @@ For each completed translation, provide a concise validation report containing:
 - whether the complete Confluence dictionary was successfully retrieved;
 - the Confluence page ID used;
 - the number or scope of dictionary entries checked, where available;
-- the approved terms applied;
-- unresolved or ambiguous terms;
+- a terminology change comparison listing every change, with the original term, the approved term from Confluence, and its context or location in the content;
+- terms not found in the dictionary, each marked `pending review`;
+- ambiguous terms requiring human confirmation;
+- conflicts or duplicate instructions in the dictionary;
 - any deviations from the approved terminology;
 - confirmation that the complete translated content was reviewed.
 
