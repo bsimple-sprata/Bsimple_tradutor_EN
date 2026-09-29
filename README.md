@@ -15,3 +15,6 @@ O processo idealizado para uniformizar o nível de traduções nos items de Azur
 
 ### Nota:
 Se o utilizador preferir pode usar um Copilot space ou similar e usar os ficheiros README.md, Claude.md, Agents.md ou Copilot-instructions.md.
+
+
+<img width="1024" height="383" alt="image" src="https://github.com/user-attachments/assets/b864079f-92f9-495a-96ca-77ce3cc467fe" />
