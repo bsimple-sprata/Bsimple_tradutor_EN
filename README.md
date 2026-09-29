@@ -9,4 +9,4 @@ Este repositório contém os ficheiros necessários para direcionar agentes de I
 - copilot-instructions.md
 
 ### Nota:
-Se o utilizador preferir pode usar um Copilot space ou similar e usar os ficheiros README e Claude ou Agente ou Instructions.
+Se o utilizador preferir pode usar um Copilot space ou similar e usar os ficheiros README.md, Claude.md, Agents.md ou copilot-instructions.md.
