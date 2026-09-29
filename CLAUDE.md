@@ -83,3 +83,6 @@ For each completed translation, provide a concise validation report containing:
 - confirmation that the complete translated content was reviewed.
 
 A translation must not be presented as fully validated unless the complete official dictionary was successfully retrieved and checked.
+
+## If required to write the translation onto Azure DevOps item: 
+- the translated text should be inserted in field "BS Description EN" of the identified item.
