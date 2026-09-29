@@ -1,4 +1,4 @@
-## Get-ConfluencePage.ps1
+## README Get-ConfluencePage.ps1
 
 Script PowerShell para ler o conteúdo de uma página do Confluence Cloud através da API REST (v2), usando autenticação por API token.
 
@@ -30,7 +30,7 @@ O script:
 | `-PageId`     | Sim         | ID numérico da página do Confluence.                                      |
 | `-AsPlainText`| Não         | *Switch*. Se presente, converte o HTML para texto simples (remove tags).  |
 
-## Como definir o token em variável de ambiente
+## Como definir o token e o email em variável de ambiente
 
 **PowerShell (sessão atual):**
 ```powershell
@@ -38,8 +38,13 @@ $env:CONFLUENCE_API_TOKEN = "o-teu-token-aqui"
 ```
 
 **Windows (permanente, ao nível do utilizador):**
+TOKEN
 ```powershell
 [System.Environment]::SetEnvironmentVariable("CONFLUENCE_API_TOKEN", "o-teu-token-aqui", "User")
+```
+EMAIL
+```powershell
+[System.Environment]::SetEnvironmentVariable("CONFLUENCE_EMAIL", "email@b-simple.pt", "User")
 ```
 
 ## Exemplos de utilização
