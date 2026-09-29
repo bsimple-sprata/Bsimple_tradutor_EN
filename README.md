@@ -1,4 +1,7 @@
 # Bsimple_tradutor_EN
+<img width="256" height="95" alt="image" src="https://github.com/user-attachments/assets/b864079f-92f9-495a-96ca-77ce3cc467fe" />
+
+
 Este repositório contém os ficheiros necessários para direcionar agentes de IA para o repositório oficial de traduções da Bsimple no Confluence e estabelecer ligação ao Confluence e Azure DevOps
 
 #### Contém os ficheiros e pastas:
@@ -17,4 +20,4 @@ O processo idealizado para uniformizar o nível de traduções nos items de Azur
 Se o utilizador preferir pode usar um Copilot space ou similar e usar os ficheiros README.md, Claude.md, Agents.md ou Copilot-instructions.md.
 
 
-<img width="1024" height="383" alt="image" src="https://github.com/user-attachments/assets/b864079f-92f9-495a-96ca-77ce3cc467fe" />
+
