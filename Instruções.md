@@ -1,4 +1,4 @@
-## 1) Criação ou atualização do ficheiro de instruções locais:
+## 1) Criação ou atualização do ficheiro de instruções locais nos agentes de IA:
 Utilizar uma das opções A,B ou C consoante a plataforma em utilização. Copiar e colar o ficheiro OU se já existir, atualizar com um editor de texto com o conteúdo correspondente:
 
 ### A) Para Claude code:   
@@ -17,3 +17,5 @@ ou
 C:\Utilizadores\Ana\ .copilot\copilot-instructions.md
 
 ## 2) Criação de mecanismo de ligação ao Confluence:
+Seguir as instruções do ficheiro README dentro da pasta "Acesso Confluence"
+Se não for usado acesso via script Powershell adaptar de acordo.
