@@ -21,3 +21,5 @@ Seguir as instruções do ficheiro README dentro da pasta "Acesso Confluence"
 Se não for usado acesso via script Powershell adaptar de acordo.
 
 ## 2) Criação de mecanismo de ligação ao Azure DevOps:
+Seguir as instruções do ficheiro README dentro da pasta "Acesso DevOps"
+Se não for usado acesso via script Powershell adaptar de acordo.
