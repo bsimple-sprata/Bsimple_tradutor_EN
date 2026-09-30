@@ -1,4 +1,4 @@
-# Bsimple_tradutor_EN (v2)
+# Bsimple_tradutor_EN
 <img width="256" height="95" alt="image" src="https://github.com/user-attachments/assets/b864079f-92f9-495a-96ca-77ce3cc467fe" />
 
 
