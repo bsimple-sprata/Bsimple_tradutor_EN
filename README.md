@@ -15,7 +15,7 @@ Este repositório contém os ficheiros necessários para direcionar agentes de I
 - \Acesso DevOps 
 (ficheiros de ligação ao Azure DevOps)
 
-### Deverá começar a sua utilização lendo o ficheiro "Instruções.md" !
+### Deverá continuar a sua utilização lendo o ficheiro "Instruções.md" !
 
 #### Circuito esperado após a conclusão de toda a configuração:
 O processo idealizado para uniformizar o nível de traduções nos items de Azure Devops passa por utilizar os ficheiros de skills presentes neste repositório em agentes de IA, basear as traduções num repositório oficial e manter esse repositório no Confluence onde são feitos os ajustes necessários face à evolução dos textos produzidos pela equipa.
