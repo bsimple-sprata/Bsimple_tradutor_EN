@@ -1,5 +1,5 @@
 ## 1) Criação ou atualização do ficheiro de instruções locais nos agentes de IA:
-Utilizar uma das opções A,B ou C consoante a plataforma em utilização. Copiar e colar o ficheiro OU se já existir, atualizar com um editor de texto com o conteúdo correspondente:
+Utilizar uma das opções A,B ou C consoante a plataforma em utilização. Copiar e colar o ficheiro correspondente para as localizações indicadas OU se já existir, atualizar com um editor de texto com o conteúdo correspondente:
 
 ### A) Para Claude code:   
 C:\Users\Ana\.claude\CLAUDE.md
