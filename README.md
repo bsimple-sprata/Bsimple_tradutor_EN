@@ -10,8 +10,10 @@ Este repositório contém os ficheiros necessários para direcionar agentes de I
 - CLAUDE.md
 - AGENTS.md
 - copilot-instructions.md
-- Acesso Confluence (ficheiros de ligação ao confluence)
-- Acesso DevOps (ficheiros de ligação ao Azure DevOps)
+- \Acesso Confluence
+ (ficheiros de ligação ao confluence)
+- \Acesso DevOps 
+(ficheiros de ligação ao Azure DevOps)
 
 ### Deverá começar a sua utilização lendo o ficheiro "Instruções.md" !
 
