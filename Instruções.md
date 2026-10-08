@@ -1,4 +1,4 @@
-## 1) Criação ou atualização do ficheiro de instruções locais nos agentes de IA:
+## 1) Criação ou atualização do ficheiro de instruções locais (skills) nos agentes de IA:
 Utilizar uma das opções A,B ou C consoante a plataforma em utilização. Copiar e colar o ficheiro correspondente para as localizações indicadas OU se já existir, atualizar com um editor de texto com o conteúdo correspondente:
 
 ### A) Para Claude code:   
